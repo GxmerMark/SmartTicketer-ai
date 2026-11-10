@@ -1,0 +1,61 @@
+message,category,priority
+I was charged twice for my monthly subscription,billing,high
+Please refund the duplicate payment on my card,billing,high
+My invoice has the wrong amount,billing,medium
+The discount code was not applied to my bill,billing,medium
+I cannot download my payment receipt,billing,low
+Why did my subscription price increase this month,billing,medium
+The payment failed but money was deducted,billing,critical
+I need clarification about the tax on my invoice,billing,low
+I was billed after cancelling my plan,billing,high
+My refund has not arrived after ten days,billing,high
+The checkout page charged me two times,billing,critical
+Can you send me last month's invoice,billing,low
+The mobile app crashes every time I open it,technical,high
+I receive an error when uploading a document,technical,high
+The website is extremely slow today,technical,medium
+I cannot reset my password because the link fails,technical,high
+The dashboard is showing a blank screen,technical,high
+Notifications stopped working after the update,technical,medium
+The service is completely unavailable for our team,technical,critical
+The export button does nothing when clicked,technical,medium
+I found a bug in the search feature,technical,low
+The API returns a server error on every request,technical,critical
+My app keeps freezing during login,technical,high
+The page layout looks incorrect on my phone,technical,low
+I need to update the email address on my account,account,low
+Please help me recover access to my account,account,high
+My profile information is incorrect,account,low
+I want to change my account password,account,medium
+My account was locked and I cannot sign in,account,high
+Please delete my old account,account,medium
+I suspect someone accessed my account without permission,account,critical
+How can I enable two factor authentication,account,low
+I cannot verify my new phone number,account,medium
+My account settings are not saving,account,medium
+I need to change the name on my profile,account,low
+An unknown device is logged into my account,account,critical
+My order has not arrived yet,delivery,high
+The package tracking status has not changed,delivery,medium
+I received the wrong item in my delivery,delivery,high
+The parcel arrived damaged,delivery,high
+Please update the delivery address for my order,delivery,medium
+The courier marked my package delivered but I did not get it,delivery,critical
+When will my order be shipped,delivery,low
+Part of my order is missing from the package,delivery,medium
+My delivery is delayed by several days,delivery,medium
+The package was delivered to the wrong address,delivery,high
+I need to reschedule my delivery,delivery,low
+The shipment is lost and I need urgent help,delivery,critical
+I want to cancel my subscription before renewal,cancellation,medium
+Please stop renewing my monthly plan,cancellation,low
+I am unhappy and want to close my service,cancellation,medium
+Cancel my order because I no longer need it,cancellation,low
+I was charged after I requested cancellation,cancellation,high
+I want to leave because the service is unreliable,cancellation,medium
+Please confirm that my membership is cancelled,cancellation,low
+I need to terminate my business account immediately,cancellation,high
+The cancellation option is missing from my settings,cancellation,medium
+I have contacted support but nobody cancelled my plan,cancellation,high
+Stop all future subscription payments immediately,cancellation,high
+I want to cancel my account and request data deletion,cancellation,medium
